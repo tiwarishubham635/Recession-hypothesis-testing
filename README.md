@@ -1,4 +1,4 @@
-# SHUBHAM
+# Recession Hypothesis Testing
 # This project is about Hypothesis Testing
 # Definitions:
 # * A _quarter_ is a specific three month period, Q1 is January through March, Q2 is April through June, Q3 is July through September, Q4 is October through December.
