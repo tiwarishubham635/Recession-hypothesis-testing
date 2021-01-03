@@ -19,7 +19,7 @@ A _recession_ is defined as starting with two consecutive quarters of GDP declin
 A _recession bottom_ is the quarter within a recession which had the lowest GDP.
 A _university town_ is a city which has a high percentage of university students compared to the total population of the city.
 
-# Hypothesis: University towns have their mean housing prices less effected by recessions.
+## Hypothesis: University towns have their mean housing prices less effected by recessions.
 
 This project runs a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. (`price_ratio=quarter_before_recession/recession_bottom`)
 
