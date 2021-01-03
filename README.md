@@ -12,7 +12,7 @@ This project is completly developed in python language using some libraries like
 4. Scikit
 5. MatPlotLib
 
-# Terminology:
+## Terminology:
 
 A _quarter_ is a specific three month period, Q1 is January through March, Q2 is April through June, Q3 is July through September, Q4 is October through December.
 A _recession_ is defined as starting with two consecutive quarters of GDP decline, and ending with two consecutive quarters of GDP growth.
