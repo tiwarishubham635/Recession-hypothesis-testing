@@ -2,7 +2,7 @@
 
 This project is about Hypothesis Testing
 
-# Technologies used:
+## Technologies used:
 
 This project is completly developed in python language using some libraries like:
 
