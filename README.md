@@ -35,7 +35,7 @@ This project runs a t-test to compare the ratio of the mean price of houses in u
 2. Then paste the codes of University_towns.py, Recession.py (three functions in three seperate cells) and T_Test.py in different cells of Jupyter Notebook
 3. Sepeartely run each cell to see the output.
 
-# Output Screenshots
+## Output Screenshots
 
 - University_towns.py
 
