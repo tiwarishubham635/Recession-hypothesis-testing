@@ -37,7 +37,7 @@ This project runs a t-test to compare the ratio of the mean price of houses in u
 
 ## Output Screenshots
 
-- University_towns.py
+- ### University_towns.py
 
 <div>
 <table border="1" class="dataframe">
@@ -359,7 +359,7 @@ This project runs a t-test to compare the ratio of the mean price of houses in u
 <p>517 rows × 2 columns</p>
 </div>
 
-- Recession.py
+- ### Recession.py
 
 Recession Start: '2008q3'
 
@@ -1954,6 +1954,6 @@ Housing Data:
 <p>10730 rows × 67 columns</p>
 </div>
 
-- T_Test.py
+- ### T_Test.py
 
   (True, 0.005496427353694603, 'university town')
